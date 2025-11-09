@@ -1,7 +1,7 @@
 {
 	"name": "ubytovani-letiny.cz",
 	"short_name": "Ubytování Letiny &quot;u Walterů&quot;",
-	"description": "Ubytovani Letiny CZ - statek u Walterů.",
+	"description": "Pohodlné a milé ubytovani v Letinech na statku u Walterů.",
 	"start_url": "/index.html",
 	"display": "standalone",
 	"background_color": "#ffffff",
